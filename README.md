@@ -1,6 +1,7 @@
 # consignment-price-prediction-MLOps
 
-[![Screenshot (10)](web_page.png)]
+![Flowcharts_consignment.png](Flowcharts_consignment.png)
+
 
 Deploy an end-to-end machine learning project utilizing the following tools and methods:  
 - 1. Live dataStream 
