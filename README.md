@@ -1,5 +1,5 @@
 # consignment-price-prediction-MLOps
-deploy an end-to-end machine learning project utilizing the following tools and methods:  
+Deploy an end-to-end machine learning project utilizing the following tools and methods:  
 - 1. Live dataStream 
 - 2. Apache Airflow 
 - 3. DVC Pipeline 
